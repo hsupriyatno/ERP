@@ -1,0 +1,4 @@
+streamlit
+pandas
+# Tambahkan library lain jika kamu memakainya, misalnya:
+streamlit-option-menu
